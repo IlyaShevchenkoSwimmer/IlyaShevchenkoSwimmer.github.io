@@ -1,0 +1,122 @@
+[
+  {
+    "id": "dev-001",
+    "name": "Downtown Sensor",
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "model": "advanced",
+    "status": "on"
+  },
+  {
+    "id": "dev-002",
+    "name": "Golden Gate Monitor",
+    "lat": 37.8199,
+    "lon": -122.4783,
+    "model": "basic",
+    "status": "off"
+  },
+  {
+    "id": "dev-003",
+    "name": "Mission Control",
+    "lat": 37.7609,
+    "lon": -122.427,
+    "model": "special",
+    "status": "on"
+  },
+  {
+    "id": "dev-004",
+    "name": "Alcatraz Scanner",
+    "lat": 37.8267,
+    "lon": -122.4233,
+    "model": "basic",
+    "status": "off"
+  },
+  {
+    "id": "dev-005",
+    "name": "Fisherman's Wharf Unit",
+    "lat": 37.808,
+    "lon": -122.4177,
+    "model": "advanced",
+    "status": "on"
+  },
+  {
+    "id": "dev-006",
+    "name": "Civic Center Hub",
+    "lat": 37.7793,
+    "lon": -122.4192,
+    "model": "special",
+    "status": "off"
+  },
+  {
+    "id": "dev-007",
+    "name": "SOMA Detector",
+    "lat": 37.7745,
+    "lon": -122.413,
+    "model": "advanced",
+    "status": "on"
+  },
+  {
+    "id": "dev-008",
+    "name": "Lombard Street Sensor",
+    "lat": 37.8021,
+    "lon": -122.4186,
+    "model": "basic",
+    "status": "off"
+  },
+  {
+    "id": "dev-009",
+    "name": "Presidio Node",
+    "lat": 37.7989,
+    "lon": -122.4662,
+    "model": "special",
+    "status": "on"
+  },
+  {
+    "id": "dev-010",
+    "name": "Chinatown Beacon",
+    "lat": 37.7941,
+    "lon": -122.4078,
+    "model": "basic",
+    "status": "off"
+  },
+  {
+    "id": "dev-011",
+    "name": "Pier 39 Scanner",
+    "lat": 37.8087,
+    "lon": -122.4098,
+    "model": "advanced",
+    "status": "on"
+  },
+  {
+    "id": "dev-012",
+    "name": "Haight-Ashbury Unit",
+    "lat": 37.7699,
+    "lon": -122.4469,
+    "model": "basic",
+    "status": "off"
+  },
+  {
+    "id": "dev-013",
+    "name": "Union Square AI",
+    "lat": 37.7879,
+    "lon": -122.4074,
+    "model": "special",
+    "status": "on"
+  },
+  {
+    "id": "dev-014",
+    "name": "Castro Valley Monitor",
+    "lat": 37.7621,
+    "lon": -122.435,
+    "model": "basic",
+    "status": "off"
+  },
+  {
+    "id": "dev-015",
+    "name": "Twin Peaks Sensor",
+    "lat": 37.7544,
+    "lon": -122.4477,
+    "model": "advanced",
+    "status": "on"
+  }
+]
